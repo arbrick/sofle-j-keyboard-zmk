@@ -76,7 +76,7 @@
 &trans     &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
-            display-name = "L2"
+            display-name = "L2";
             sensor-bindings = <&scroll_encoder>;
         };
     };
