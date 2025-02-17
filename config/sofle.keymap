@@ -82,7 +82,7 @@
 &trans          &kp INS       &kp PSCRN      &trans        &trans        &trans          &mmv MOVE_DOWN   &kp PG_UP  &kp HOME  &kp UP      &kp END       &kp UNDER    &kp PLUS
 &trans          &out BSLH     &kp EQUAL      &kp LBKT      &kp RBKT      &trans          &mmv MOVE_LEFT   &kp PG_DN  &kp LEFT  &kp DOWN    &kp RIGHT     &kp LBRC     &kp RBRC
 &mt LSHFT CAPS  &trans        &trans         &bootloader   &trans        &trans          &mmv MOVE_RIGHT  &trans     &trans    &trans      &trans        &trans       &trans
-&trans          &trans        &trans         &trans        &lm 1 1       &trans          &mkp LCLK        &trans     &trans    &trans      &trans        &trans
+&trans          &trans        &trans         &trans        &lm 1 1       &trans          &mkp LCLK        &trans     &mo 2     &trans      &trans        &trans
             >;
 
             display-name = "raise";
